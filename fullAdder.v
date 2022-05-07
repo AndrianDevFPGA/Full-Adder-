@@ -62,8 +62,8 @@ input b1;
 output sum1;
 output carry1;
 
-assign sum1 = a ^ b;
-assign carry = a & b;
+assign sum1 = a1 ^ b1;
+assign carry = a1 & b1;
 
 endmodule
 
