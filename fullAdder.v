@@ -44,7 +44,7 @@ module fullAdder(
   orGate orGate1 (
                .a2 (w3),
                .b2 (w2),
-               .or2 (carry)
+               .or2 (carryOut)
                );
 endmodule
    
