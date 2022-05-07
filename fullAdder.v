@@ -4,7 +4,7 @@
   Description : Full adder verilog code using two half adder components
 */
 
-module (
+module fullAdder(
        a,
        b,
        c,
