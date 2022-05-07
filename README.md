@@ -1,3 +1,3 @@
 # Full-Adder-
 
-Full adder logic using two half adder , and or gate 
+Full adder using two half adder , and or gate logic
