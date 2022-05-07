@@ -33,7 +33,7 @@ module fullAdder(
                );
   // half adder component 2
   
-  halfAdder H1 (
+  halfAdder H2 (
                .a1 (c),
                .b1 (w1),
                .sum1 (sum),
